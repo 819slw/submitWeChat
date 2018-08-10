@@ -1,0 +1,31 @@
+body {
+	background: #f0f4f5;
+}
+
+label {
+	text-align: right;
+}
+
+.flex-sp-bt {
+	display: flex;
+	justify-content: space-between;
+	align-content: center;
+}
+
+.flex-sp-bt button {
+	margin-left: 20px;
+	max-height: 38px;
+}
+
+.form-group {
+	display: flex;
+	justify-content: center;
+}
+
+.weChat-container {
+	max-width: 700px;
+	margin: 50px auto;
+	background: #fff;
+	padding: 20px;
+	border-radius: 10px;
+}
